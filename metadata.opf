@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68d545da-36e3-41d7-a619-398171533c83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68d545da-36e3-41d7-a619-398171533c83</dc:identifier>
+        <dc:title>Supercharge Power BI 3rd Edition</dc:title>
+        <dc:creator opf:file-as="Allington, Matt" opf:role="aut">Matt Allington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-27T00:00:00+00:00</dc:date>
+        <dc:description>Power BI is Better When You Learn to Write DAX</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>big data;data analysis;data scientist;excel;excel 2016;Power BI;Business Intelligence;finance;microsoft;msbi;pivot table;pivottable;powerpivot;sharepoint;spreadsheets;DAX;formulas</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
